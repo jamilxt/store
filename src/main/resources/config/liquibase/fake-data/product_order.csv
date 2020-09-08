@@ -1,11 +1,11 @@
-id;place_date;status;code
-1;2020-09-06T14:39:38;COMPLETED;Georgia calculate withdrawal
-2;2020-09-06T01:36:08;COMPLETED;compress Steel out-of-the-box
-3;2020-09-06T03:07:20;PENDING;Concrete
-4;2020-09-06T16:33:15;CANCELLED;Investment Account
-5;2020-09-06T03:50:05;PENDING;United States of America
-6;2020-09-06T18:02:09;CANCELLED;IB Industrial Credit Card Account
-7;2020-09-06T21:08:34;CANCELLED;Cotton Egyptian Pound
-8;2020-09-06T06:04:38;COMPLETED;Home Loan Account
-9;2020-09-06T14:58:54;COMPLETED;Human
-10;2020-09-06T01:07:32;CANCELLED;payment
+id;place_date;status;code;customer_id
+1;2020-09-06T14:39:38;COMPLETED;Georgia calculate withdrawal;1
+2;2020-09-06T01:36:08;COMPLETED;compress Steel out-of-the-box;2
+3;2020-09-06T03:07:20;PENDING;Concrete;3
+4;2020-09-06T16:33:15;CANCELLED;Investment Account;4
+5;2020-09-06T03:50:05;PENDING;United States of America;5
+6;2020-09-06T18:02:09;CANCELLED;IB Industrial Credit Card Account;6
+7;2020-09-06T21:08:34;CANCELLED;Cotton Egyptian Pound;7
+8;2020-09-06T06:04:38;COMPLETED;Home Loan Account;8
+9;2020-09-06T14:58:54;COMPLETED;Human;9
+10;2020-09-06T01:07:32;CANCELLED;payment;10
