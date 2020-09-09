@@ -4,28 +4,20 @@
     {
       "fieldName": "quantity",
       "fieldType": "Integer",
-      "fieldValidateRules": [
-        "required",
-        "min"
-      ],
+      "fieldValidateRules": ["required", "min"],
       "fieldValidateRulesMin": "0"
     },
     {
       "fieldName": "totalPrice",
       "fieldType": "BigDecimal",
-      "fieldValidateRules": [
-        "required",
-        "min"
-      ],
+      "fieldValidateRules": ["required", "min"],
       "fieldValidateRulesMin": "0"
     },
     {
       "fieldName": "status",
       "fieldType": "OrderItemStatus",
       "fieldValues": "AVAILABLE,OUT_OF_STOCK,BACK_ORDER",
-      "fieldValidateRules": [
-        "required"
-      ]
+      "fieldValidateRules": ["required"]
     }
   ],
   "relationships": [

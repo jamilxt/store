@@ -8,9 +8,7 @@
     {
       "fieldName": "date",
       "fieldType": "Instant",
-      "fieldValidateRules": [
-        "required"
-      ]
+      "fieldValidateRules": ["required"]
     },
     {
       "fieldName": "details",
