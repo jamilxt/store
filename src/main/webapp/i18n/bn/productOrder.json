@@ -19,8 +19,8 @@
       "placeDate": "Place Date",
       "status": "Status",
       "code": "Code",
-      "orderItem": "Order Item",
       "invoice": "Invoice",
+      "orderItem": "Order Item",
       "customer": "Customer"
     }
   }
