@@ -3,10 +3,10 @@ package com.mycompany.store.repository;
 import com.mycompany.store.domain.OrderItem;
 
 import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.*;
 import org.springframework.stereotype.Repository;
 
-import java.awt.print.Pageable;
 import java.util.Optional;
 
 /**
